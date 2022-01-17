@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="jarfiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/slf4j-nop-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pdftest-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/io-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/font-asian-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/svg-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forms-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kernel-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/barcodes-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hyph-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/layout-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sign-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/styled-xml-parser-7.1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pdfa-7.1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
